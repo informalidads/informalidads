@@ -8,6 +8,7 @@
   <img align="center" alt="Faz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Faz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Faz-angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+ <img align="center" alt="Faz-kotlin-plain" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin-plain/kotlin-plain-original.svg">
   <img align="center" alt="Faz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
