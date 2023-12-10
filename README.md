@@ -6,9 +6,10 @@
   <img align="center" alt="Faz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Faz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Faz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Faz-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php-plain/php-plain.svg">
   <img align="center" alt="Faz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Faz-angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
- <img align="center" alt="Faz-kotlin-plain" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin-plain/kotlin-plain-original.svg">
+
   <img align="center" alt="Faz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
