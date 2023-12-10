@@ -1,4 +1,9 @@
 ## Profile Fazesaca
+🏆・Atualmente Trabalhando com Front-End e Back-End.
+
+🔧・Editor de vídeos, Designer, Programador e Técnico em telecomunicações.
+
+✅・WebSites, WebTools, Bots e Scripts.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Faz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
