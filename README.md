@@ -25,7 +25,7 @@
   ##
  
 <div> 
-  <a href="https://www.pinterest.com/informalidads" target="_blank"><img src="https://img.shields.io/badge/Pinterest-FF0000?style=for-the-badge&logo=pinterest&logoColor=white" target="_blank"></a>
+  <a href="https://www.pinterest.com/informalidadss" target="_blank"><img src="https://img.shields.io/badge/Pinterest-FF0000?style=for-the-badge&logo=pinterest&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCdIsYjRXa9Ni_ckiqZeUQIw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0001?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/informalidads" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/users/1131667624003125289" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
